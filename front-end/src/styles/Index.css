@@ -1,0 +1,42 @@
+* {
+    /* background-image: linear-gradient(#FFF, #FFDDE1); */
+    
+    /* background-color: #09090B; */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Corbel";
+}
+
+#app-container {
+    width: 100%;
+    min-height: 100vh;
+    /* display: flex;
+    justify-content: space-between;
+    align-items: center; */
+    
+    background-color: #ffffff;
+}
+
+/* 
+.custom-shape-divider-bottom-1600880335 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1600880335 svg {
+    position: relative;
+    display: block;
+    width: calc(163% + 1.3px);
+    height: 191px;
+}
+
+.custom-shape-divider-bottom-1600880335 .shape-fill {
+    fill: url(#my-cool-gradient);
+} 
+*/

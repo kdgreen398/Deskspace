@@ -1,0 +1,34 @@
+.content {
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.content h2 {
+    font-size: 6em;
+    /* line-height: 1em; */
+    
+    margin-bottom: 30px;
+}
+
+.content h2 span {
+    font-size: 1.5em;
+    font-family: "Coolvetica";
+    letter-spacing: 0.05em;
+}
+
+.content button {
+    border: solid 4px transparent;
+    border-image: linear-gradient(-20deg, #587BD4, #4AB6E1);
+    border-image-slice: 1;
+    
+    font-size: 2em;
+    width: 100px;
+    padding: 5px;
+    margin-right: 50px;
+
+    outline: none;
+    cursor: pointer;
+}
